@@ -5,7 +5,7 @@
    <view slot="content">导航栏</view>
 </cu-custom>
 <view>{{message}}</view>
-<van-button type="default">钱钱钱钱钱钱钱</van-button>
+<van-button type="default">2333钱钱钱钱钱钱钱</van-button>
 <van-button type="primary">主要</van-button>
 <van-button type="info">信息</van-button>
 
