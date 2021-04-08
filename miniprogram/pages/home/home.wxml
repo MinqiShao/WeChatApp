@@ -7,5 +7,5 @@
 <view>{{message}}</view>
 <van-button type="default">777</van-button>
 <van-button type="primary">主要</van-button>
-<van-button type="info">信息</van-button>
+<van-button type="info">信息111</van-button>
 
