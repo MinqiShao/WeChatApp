@@ -10,7 +10,6 @@
   </swiper-item>
 </swiper>
 
-
   <view class="VerticalBox">
   <scroll-view class="VerticalNav nav" scroll-y scroll-with-animation scroll-top="{{VerticalNavTop}}" style="height:calc(100vh - 375rpx)">
     <view class="cu-item {{index==TabCur?'text-green cur':''}}" wx:for="{{listname}}" wx:key bindtap='tabSelect' data-id="{{index}}">

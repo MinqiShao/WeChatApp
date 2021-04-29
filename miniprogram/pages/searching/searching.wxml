@@ -11,7 +11,6 @@
   <button class=" basis-xs cu-btn round bg-mauve">搜索</button>
 </view>
 
-
 <view class="cu-bar bg-white solid-bottom margin-top ">
   <view class="action">
     <text class="cuIcon-title text-red"></text>历史搜索
@@ -21,6 +20,7 @@
   <view class="cu-tag round"> 小桌板 </view>
   <view class="cu-tag round"> 乳液 </view>
   <view class="cu-tag round"> 四级 </view>
+  <view class="cu-tag round"> 六级 </view>
 </view>
 
 <view class="cu-bar bg-white margin-top solid-bottom">
