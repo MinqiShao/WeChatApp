@@ -1,0 +1,36 @@
+<cu-custom bgColor="bg-gradual-pink" isBack="{{true}}">
+   <view slot="backText">返回</view>
+   <view slot="content">搜索</view>
+</cu-custom>
+
+<view class="cu-bar bg-white search fixed flex flex-wrap" style="top:{{CustomBar}}px">
+  <view class="search-form round basis-xl">
+    <text class="cuIcon-search"></text>
+    <input type="text" placeholder="二手教材上新" confirm-type="search" bindinput="searchIcon"></input>
+  </view>
+  <button class=" basis-xs cu-btn round bg-mauve">搜索</button>
+</view>
+
+
+<view class="cu-bar bg-white solid-bottom margin-top ">
+  <view class="action">
+    <text class="cuIcon-title text-red"></text>历史搜索
+  </view>
+</view>
+<view class="padding bg-white solid-bottom">
+  <view class="cu-tag round"> 小桌板 </view>
+  <view class="cu-tag round"> 乳液 </view>
+  <view class="cu-tag round"> 四级 </view>
+</view>
+
+<view class="cu-bar bg-white margin-top solid-bottom">
+  <view class="action">
+    <text class="cuIcon-title text-blue"></text>热门
+  </view>
+</view>
+<view class="padding bg-white solid-bottom">
+  <view class="cu-tag round"> 拼车去天河机场 </view>
+  <view class="cu-tag round"> 欢乐谷 </view>
+  <view class="cu-tag round"> 六级资料 </view>
+  <view class="cu-tag round"> 托福 </view>
+</view>
